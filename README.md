@@ -1,7 +1,7 @@
 # JavaVersionControlPractice
 
 ## Deskripsi singkat
-Ini proyek kecil untuk latihan membuat dokumentasi. Saya buat sebagai tugas CODELAB 2 pada mata kuliah Pemrograman Lanjut. Intinya: menunjukkan bagaimana menulis README yang jelas agar orang lain (atau saya di masa depan) gampang paham.
+Ini proyek kecil untuk latihan membuat dokumentasi. Saya buat sebagai tugas CODELAB 2 pada mata kuliah Pemrograman Lanjut. Menunjukkan bagaimana menulis README yang jelas agar orang lain (atau saya di masa depan) gampang paham.
 
 ## Cara menjalankan (singkat)
 1. Pastikan Java (JDK) sudah terpasang.
