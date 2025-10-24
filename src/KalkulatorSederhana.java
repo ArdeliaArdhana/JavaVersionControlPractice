@@ -25,6 +25,7 @@ public class KalkulatorSederhana {
         System.out.println("Pengurangan : " + kurang);
         System.out.println("Perkalian   : " + kali);
         System.out.println("Pembagian   : " + bagi);
+        System.out.println("\n=== Hasil Perhitungan ===");
 
         input.close();
     }
