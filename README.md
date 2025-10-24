@@ -10,8 +10,7 @@ Ini proyek kecil untuk latihan membuat dokumentasi. Saya buat sebagai tugas CODE
 
    ```bash
    cd src
-   javac Main.java
-   java Main
+   KalkulatorSederhana.java
     ```
 Atau bisa juga dengan menggunakan Shortcut *Shift + F10* atau bisa menekan tombol *panah hijau* di bagian atas
 aplikasi IntelliJ
